@@ -1,0 +1,9 @@
+{
+  "name": "@sotaoi/strider",
+  "private": false,
+  "version": "0.9.1",
+  "description": "",
+  "engines": {
+    "node": "14.x"
+  }
+}
