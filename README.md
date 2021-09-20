@@ -92,6 +92,12 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/strider/sponsor/28/website" target="_blank"><img src="https://opencollective.com/strider/sponsor/28/avatar.svg"></a>
 <a href="https://opencollective.com/strider/sponsor/29/website" target="_blank"><img src="https://opencollective.com/strider/sponsor/29/avatar.svg"></a>
 
+## Support & Help
+
+We are responsive to Github Issues - please don't hesitate submitting your issues here!
+
+For live help check out Strider's [Gitter].
+
 ## Contributing
 
 See the [Contributing guide](./CONTRIBUTING.md).
