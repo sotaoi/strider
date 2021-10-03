@@ -1,6 +1,6 @@
 {
   "name": "@sotaoi/strider",
-  "private": true,
+  "private": false,
   "version": "0.9.1",
   "description": "",
   "engines": {
