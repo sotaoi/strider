@@ -10,6 +10,7 @@
     "bootstrap": "npm install --no-audit --no-funds",
     "bootstrap:prod": "npm install --production --no-audit --no-funds",
     "deploy:sstrider": "node ./scripts/deploy/deploy-sstrider",
+    "clean:bootstrap": "node ./scripts/clean/clean-bootstrap",
     "clean:sstrider": "node ./scripts/clean/clean-sstrider"
   },
   "dependencies": {
